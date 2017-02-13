@@ -1,0 +1,76 @@
+body{
+	text-align: center;
+	margin: 0%;
+	padding: 0px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	background-color: #999;
+	background-image: url(images/bg_texture.gif);
+}
+
+h1{
+	color: #2A3F55;
+	margin-top: 0em;
+	font-size: 3em;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+
+h2{
+	color: #2A3F55;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	margin-top: 1.5em;
+}
+
+h3{
+	color: #2A3F55;
+	margin-top: 1.5em;
+}
+
+p{
+	font-size: 0.9em;
+}
+
+dd{
+	font-size: 0.9em;
+}
+
+dt{
+	margin-top: 1em;
+	margin-right: 0em;
+	margin-bottom: 0em;
+	margin-left: 0em;
+}
+
+#container{
+	background-color: #FFF;
+	text-align: left;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-style: solid;
+	border-color: #333;
+	margin: 0, auto, 0, auto;
+	padding: 50px;
+}
+
+#content{
+	margin: 15px, 250px, 0px, 0px;
+	padding: 15px, 0px, 15px, 50px;
+}
+
+#sidebar{
+	float: right;
+	background-image: url(images/grey_rnd_rect.gif);
+	background-repeat: no repeat;
+	width: 215px;
+	height: 315px;
+	margin: 20px, 20px, 0px, 20px;
+}
+
+#sidebar_content{
+	width: 180px;
+	margin: 0px, auto, 20px, auto;
+	padding: 0, 0, 0, 20px;
+}

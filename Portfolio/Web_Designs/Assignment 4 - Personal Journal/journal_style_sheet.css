@@ -1,0 +1,53 @@
+
+  body{
+	background-image: url("images/Notepad_paper_Repeat_Design3.jpg");
+	background-repeat: repeat-y;
+	font-size: 62.5%;
+  }
+  
+  h1 {
+	font-size: 3.5em;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	margin: 12px 10px 10px 135px;
+  }
+  
+  h2 {
+	font-size: 3em;
+  }
+  
+  #journal_entry {
+  	margin: 50px 220px 10px 140px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+  }
+  
+  p{
+ 	font-size: 2.5em;
+	line-height: 140%; 
+  }
+  
+  a:link { 
+  	margin: 10px 10px 10px 135px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-size: 2em;
+  }  
+  
+  a:visited { 
+  	margin: 10px 10px 10px 135px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-size: 2em;
+  }
+  
+  a:active {
+ 	margin: 10px 10px 10px 135px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-size: 2em;
+  }
+  
+  a:hover { 
+ 	margin: 10px 10px 10px 135px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-size: 2em;
+  }
+
+
+/* a.plain { text-decoration: none; }*/

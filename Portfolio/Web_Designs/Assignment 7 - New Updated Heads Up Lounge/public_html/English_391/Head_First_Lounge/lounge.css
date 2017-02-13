@@ -1,0 +1,29 @@
+<style type="text/css">  
+	body{
+	   font-family: sans-serif;
+	   }
+	h1,h2{
+	   font-family: sans-serif;
+	   color: #CC99ff;
+	   }
+	h1{
+	   border-bottom: 1px solid black;
+	   }
+
+
+	p {
+	   color:#990000;
+	   }
+
+	p class {
+	   p.greentea{
+	      color:#00ee00;
+	      }
+	   p.rasberry{
+	      color:#0000ff
+	      }
+	   p.blueberry{
+	      color:#330066
+	      }
+	}
+</style>
